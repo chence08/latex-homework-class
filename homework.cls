@@ -170,7 +170,7 @@
 
       \hwname{} (\hwemail)
 
-      \today
+      \hwdate
     \end{center}
     \renewcommand{\headrulewidth}{0.4pt}
   }
